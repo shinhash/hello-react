@@ -6,7 +6,6 @@ import "./App.css";
 import Animal from './Animal';
 
 
-
 const App = () => {
   
   return <Animal kind="고양이" color="#3FFF00">고양이</Animal>
